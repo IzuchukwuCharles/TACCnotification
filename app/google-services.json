@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828548701580",
+    "project_id": "taccnotification",
+    "storage_bucket": "taccnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828548701580:android:438f3d2de9cbab03f40aa9",
+        "android_client_info": {
+          "package_name": "com.example.taccnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828548701580-v75bb8s5dh8om6ldq7ep6i0mh7o8milb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRxJDQ7EBIuvTCvSZtgDFSevrNsTQaZaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828548701580-v75bb8s5dh8om6ldq7ep6i0mh7o8milb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
